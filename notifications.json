@@ -1,0 +1,18 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "تحديث جديد!",
+      "message": "تمت إضافة ميزات جديدة للتطبيق.",
+      "image": "https://raw.githubusercontent.com/username/EagleApp-Data/main/update.jpg",
+      "date": "2025-10-05"
+    },
+    {
+      "id": 2,
+      "title": "سياسة الاستخدام",
+      "message": "يرجى مراجعة السياسات الجديدة قبل الاستمرار.",
+      "image": "https://raw.githubusercontent.com/username/EagleApp-Data/main/policy.png",
+      "date": "2025-10-03"
+    }
+  ]
+}
