@@ -1,88 +1,10 @@
 {
   "notifications": [
     {
-      "title": "تحسن اقتصادي ملحوظ 💰",
-      "message": "شهدت مؤشرات الاقتصاد المصري هذا الأسبوع تحسنًا كبيرًا بعد زيادة حجم الصادرات وتراجع معدلات التضخم، ما يعكس جهود الحكومة في دعم الصناعة المحلية وتحقيق الاستقرار النقدي.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "مشروعات قومية جديدة 🚧",
-      "message": "أعلنت الحكومة عن بدء تنفيذ عدد من المشروعات القومية الجديدة في مجالات البنية التحتية والنقل، لتوفير فرص عمل جديدة وتحسين الخدمات في مختلف المحافظات.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "توسعة شبكة المترو 🚇",
-      "message": "وزارة النقل بدأت رسميًا في تنفيذ المرحلة الجديدة من مترو القاهرة الكبرى، والتي ستربط مناطق جديدة بالعاصمة لتقليل الازدحام المروري وتسهيل حركة المواطنين.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "الطقس في مصر 🌤️",
-      "message": "هيئة الأرصاد الجوية أعلنت عن استمرار استقرار الأحوال الجوية في معظم المحافظات مع ارتفاع طفيف في درجات الحرارة خلال الأسبوع الجاري.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "احتفالات أكتوبر 🇪🇬",
-      "message": "شهدت الميادين المصرية احتفالات ضخمة بالذكرى الـ52 لنصر أكتوبر، وسط مشاركة جماهيرية كبيرة وأناشيد وطنية تخلد بطولات الجيش المصري العظيم.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "تطوير التعليم 📚",
-      "message": "وزارة التعليم أعلنت عن إطلاق منصة رقمية جديدة للطلاب تتيح دروسًا تفاعلية وموارد تعليمية مجانية، في خطوة تهدف لتعزيز التحول الرقمي في التعليم.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "استقرار الجنيه المصري 💵",
-      "message": "شهد سعر صرف الجنيه المصري استقرارًا ملحوظًا أمام العملات الأجنبية، بعد جهود البنك المركزي في تعزيز الاحتياطي النقدي ودعم السوق المحلية.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "تحسن السياحة في الأقصر وأسوان 🏺",
-      "message": "وزارة السياحة أعلنت عن زيادة عدد الزوار الأجانب بنسبة 25٪ مقارنة بالعام الماضي، خاصة في مدينتي الأقصر وأسوان اللتين شهدتا موسمًا سياحيًا ناجحًا.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "توسع في مشروعات الطاقة ⚡",
-      "message": "وقعت مصر اتفاقيات جديدة مع شركات دولية لزيادة إنتاج الكهرباء من مصادر الطاقة المتجددة، ضمن خطة التحول إلى الطاقة النظيفة بحلول عام 2030.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "منتخب مصر يستعد لمباراة قوية ⚽",
-      "message": "يواصل المنتخب المصري تدريباته المكثفة استعدادًا للمباراة القادمة في تصفيات كأس العالم، وسط دعم جماهيري كبير وتفاؤل بتحقيق الفوز.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "افتتاح مشروعات طبية جديدة 🏥",
-      "message": "رئيس الوزراء افتتح اليوم عددًا من المستشفيات والمراكز الصحية الجديدة ضمن مبادرة حياة كريمة لتحسين الخدمات الطبية في القرى والمناطق النائية.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "ارتفاع صادرات الملابس الجاهزة 👕",
-      "message": "قطاع الملابس الجاهزة يحقق زيادة بنسبة 18٪ في حجم الصادرات خلال الربع الأخير، ما يعكس النمو في الصناعة المصرية وثقة الأسواق العالمية.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "تحسين خدمات الإنترنت في الريف 🌐",
-      "message": "وزارة الاتصالات أعلنت عن توسع خدمات الإنترنت فائق السرعة في القرى ضمن مبادرة التحول الرقمي، لتحسين التواصل والتعليم عن بُعد.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
-    },
-    {
-      "title": "زيادة إنتاج القمح المحلي 🌾",
-      "message": "وزارة الزراعة أعلنت عن ارتفاع إنتاج القمح بنسبة 12٪ هذا العام بفضل السياسات الزراعية الجديدة ودعم الفلاحين بالمعدات والأسمدة الحديثة.",
-      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/active.png",
-      "date": "2025-10-08"
+      "title": "A Warm Welcome to Mai Muhammad, Our New Organizational Development Section Head ❤️❤️❤️",
+      "message": "Dear T&C Family,\n\nWe’re thrilled to share the exciting news of Ms. Mai Muhammad’s appointment as our new Organizational Development Section Head.\nMai brings with her over six years of comprehensive experience across the full spectrum of Human Resources functions.\nThroughout her career, Mai has played a key role in shaping HR frameworks, streamlining processes, and fostering cultures of collaboration and continuous improvement. Her leadership in organizational development will be instrumental in aligning people strategies with business goals and enhancing employee experience across the board.\n\nYou can reach Mai through email mai.muhammad@tcgarments.com\n\nPlease join us in giving Mai a warm welcome as she embarks on this exciting new chapter.\nWe are confident that her impact will be both immediate and lasting.\n\nWarm regards,\nHR Department\nT&C Garment",
+      "image": "https://raw.githubusercontent.com/tandcgarments/KadinioProjects/main/images/mai.jpg",
+      "date": "2025-10-12"
     }
   ]
 }
